@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37354" started-at="2022-04-14T12:52:54Z" finished-at="2022-04-14T12:53:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37354" started-at="2022-04-14T12:52:54Z" finished-at="2022-04-14T12:53:32Z">
+      <class name="com.crm.testscripts.Admintest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.crm.testscripts.Admintest@3796751b]" name="init" is-config="true" duration-ms="37294" started-at="2022-04-14T18:22:55Z" finished-at="2022-04-14T18:23:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="in()[pri:0, instance:com.crm.testscripts.Admintest@3796751b]" name="in" duration-ms="23" started-at="2022-04-14T18:23:32Z" finished-at="2022-04-14T18:23:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- in -->
+      </class> <!-- com.crm.testscripts.Admintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
